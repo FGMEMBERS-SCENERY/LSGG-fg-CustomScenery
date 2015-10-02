@@ -1,0 +1,5 @@
+OBJECT_BASE 3056179.btg
+OBJECT LSMP.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 6.901139 46.835170 442.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 6.928947 46.851258 440.3 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 6.914856 46.843629 443.1 0.00
