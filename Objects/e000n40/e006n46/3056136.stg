@@ -72,7 +72,8 @@ OBJECT_STATIC geneva_water_fountain_140.xml 6.155962 46.207333 363.99 210.6
 OBJECT_STATIC CathedraleGeneve.ac 6.148577019 46.2010917 404.6 70
 OBJECT_STATIC Geneva_Le_Lignon.ac 6.092611 46.201148 403.24 75.1
 
-##################################
+#############################FESTIVAL FALL2015
+#############################Copyright Israel Hernandez, Isaac Protiva
 ##FGADDON
 OBJECT_STATIC LSGG_North1.ac 6.12639808 46.24643638 412.4734 88.0 0.0 -0.0
 OBJECT_STATIC LSGG_North2.ac 6.12648056 46.24621965 412.8304 269.0 0.0 -0.0
@@ -141,7 +142,8 @@ OBJECT_SHARED Models/Aircraft/Cessna150.xml 6.09817606 46.23647531 423.0104 0.0 
 ###Illumination
 OBJECT_SHARED Models/Airport/apt-light.xml 6.09659520 46.23577031 423.3255 0.0 0.0 -0.0
 OBJECT_SHARED Models/Airport/apt-light.xml 6.09924647 46.23741167 422.3950 0.0 0.0 -0.0
-OBJECT_SHARED Models/Airport/apronv20_lightpole.xml 6.09823834 46.23703875 424.5384 0.0
+OBJECT_SHARED Models/Airport/apronv20_lightpole.xml 6.09823834 46.23703875 424.5384 0.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/beacon.xml 6.10022171 46.23852068 422.6077 0.0 0.0 -0.0
 
 ##RGLs
 OBJECT_SHARED Models/Airport/RGL.xml 6.12679184 46.24861723 410.7427 89.1 0.0 -0.0
@@ -179,13 +181,52 @@ OBJECT_STATIC LSGG_Cargo7.ac 6.11390782 46.23675808 423.0795 44.3 0.0 -0.0
 OBJECT_STATIC LSGG_Cargo8.ac 6.11299558 46.23599302 423.2383 44.4 0.0 -0.0
 OBJECT_STATIC LSGG_Cargo9.ac 6.11322166 46.23578156 423.3288 45.3 0.0 -0.0
 OBJECT_STATIC LSGG_Cargo10.ac 6.11333250 46.23789196 422.5222 44.0 0.0 -0.0
+OBJECT_STATIC LSGG_Cargo11.ac 6.11638525 46.23735571 422.2989 90.6 0.0 -0.0
+OBJECT_STATIC LSGG_Cargo12.ac 6.11653485 46.23944458 421.5382 90.0 0.0 -0.0
 
-####TERMINAL
+#TERMINAL
+#IH-COL
 OBJECT_STATIC LSGG_Satt20.ac 6.10304549 46.23052432 422.6392 0.0 0.0 -0.0
 OBJECT_STATIC LSGG_Satt30.ac 6.10499256 46.23191682 422.8773 0.0 0.0 -0.0
 OBJECT_STATIC LSGG_Satt40.ac 6.10686867 46.23304588 423.3448 0.0 0.0 -0.0
 OBJECT_STATIC LSGG_Tower.ac 6.10328974 46.22863809 421.1919 0.0 0.0 -0.0
-OBJECT_STATIC LSGG_WTC.ac 6.10326204 46.22702799 423.5251 89.4 0.0 -0.0
-OBJECT_STATIC LSGG_sixt.ac 6.10499318 46.22823562 423.3804 90.1 0.0 -0.0
+OBJECT_STATIC LSGG_WTC.ac 6.10389065 46.22713928 422.7910 90.1 0.0 -0.0
+OBJECT_STATIC LSGG_sixt.ac 6.10571744 46.22821145 424.7152 90.2 0.0 -0.0
 OBJECT_STATIC LSGG_TerminalA1.ac 6.10346592 46.22852442 420.2325 89.7 0.0 -0.0
+OBJECT_STATIC LSGG_TerminalA5.ac 6.10642349 46.22905151 423.9494 89.9 0.0 -0.0
+OBJECT_STATIC LSGG_TerminalC.ac 6.10938814 46.23226027 424.6717 90.1 0.0 -0.0
+OBJECT_STATIC LSGG_TerminalF.ac 6.10867090 46.23264013 424.3629 89.9 0.0 -0.0
 OBJECT_STATIC LSGG_Parking1.ac 6.10927554 46.23203993 424.6970 89.9 0.0 -0.0
+OBJECT_STATIC LSGG_Parking2.ac 6.10213002 46.22600854 417.8638 92.2 0.0 -0.0
+OBJECT_STATIC LSGG_Satt10.ac 6.10167861 46.22908985 422.3300 91.6 0.0 -0.0
+OBJECT_STATIC LSGG_Easy.ac 6.10255512 46.22925198 421.8369 91.4 0.0 -0.0
+OBJECT_STATIC LSGG_Easy_Hangar1.ac 6.10062390 46.22794597 422.2583 91.9 0.0 -0.0
+OBJECT_STATIC LSGG_Easy_Hangar2.ac 6.09962788 46.22717935 422.1663 90.6 0.0 -0.0
+OBJECT_STATIC LSGG_Easy_Hangar3.ac 6.09915975 46.22686749 422.2442 90.3 0.0 -0.0
+OBJECT_STATIC LSGG_Easy2.ac 6.09987118 46.22695173 421.4767 92.1 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/B737.xml 6.10386472 46.22890913 422.7720 287.8 0.0 -0.0
+
+#Business Apron
+OBJECT_STATIC LSGG_GrandHangar.ac 6.09861246 46.22561817 421.8589 142.6 0.0 -0.0
+OBJECT_STATIC LSGG_Global.ac 6.09636938 46.22339729 420.8012 141.4 0.0 -0.0
+OBJECT_STATIC LSGG_Tag1.ac 6.09523719 46.22281717 421.5241 88.0 0.0 -0.0
+OBJECT_STATIC LSGG_Tag2.ac 6.09459494 46.22329842 422.0340 89.3 0.0 -0.0
+OBJECT_STATIC LSGG_Tag3.ac 6.09360048 46.22402385 422.3910 88.0 0.0 -0.0
+OBJECT_SHARED Models/Aircraft/757-at-obj.xml 6.09679244 46.22529492 421.9956 316.0 0.0 -0.0
+OBJECT_SHARED Models/Airport/egkk_blastscreen.xml 6.09398928 46.22430058 422.8256 117.9 0.0 -0.0  
+##Illumination
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 6.09715627 46.22434086 420.8936 144.0 0.0 -0.0                                                                          
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 6.09660089 46.22434032 417.1995 0.0 0.0 -0.0                                                                            
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 6.09587230 46.22470622 418.4346 116.0 0.0 -0.0                                                                          
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 6.09541202 46.22430398 417.1686 0.0 0.0 -0.0                                                                            
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 6.09491956 46.22497116 418.6956 0.0 0.0 -0.0                                                                            
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 6.09361595 46.22415289 422.3932 0.0 0.0 -0.0                                                                            
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 6.09450259 46.22447872 417.4031 0.0 0.0 -0.0                                                                            
+OBJECT_SHARED Models/Airport/eddf_lamp_t2.xml 6.09602808 46.22396407 421.6513 0.0 0.0 -0.0                                                                               
+OBJECT_SHARED Models/Airport/eddf_lamp_t2.xml 6.09783630 46.22397959 425.0349 0.0 0.0 -0.0                                                                               
+OBJECT_SHARED Models/Airport/eddf_lamp_t2.xml 6.09278610 46.22374051 426.8559 0.0 0.0 -0.0                                                                               
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 6.09629868 46.22454818 419.4482 0.0 0.0 -0.0                                                                            
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 6.09555312 46.22449248 420.7641 0.0 0.0 -0.0                                                                            
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 6.09690092 46.22430793 419.6584 0.0 0.0 -0.0                                                                            
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 6.09469940 46.22469344 421.1721 0.0 0.0 -0.0                                                                            
+OBJECT_SHARED Models/Airport/egkk_light_mast.xml 6.09322008 46.22410748 422.5797 0.0 0.0 -0.0
