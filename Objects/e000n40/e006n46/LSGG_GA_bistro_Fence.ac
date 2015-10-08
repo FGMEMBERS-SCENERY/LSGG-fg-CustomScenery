@@ -7,7 +7,7 @@ kids 1
 OBJECT poly
 name "jour2"
 crease 30.0
-texture "taxi_airfield.png"
+texture "LSGG_GA_bistro_Fence.png"
 texrep 1 1
 numvert 18
 -17.9607010 4.5688338 17.7829819
