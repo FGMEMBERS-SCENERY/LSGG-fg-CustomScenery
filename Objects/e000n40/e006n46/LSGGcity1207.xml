@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<PropertyList>
+<path>LSGGcity1207.ac</path>
+<effect>
+  <inherits-from>cityLM</inherits-from>
+  <object-name>LOD_detail</object-name>
+  <object-name>LOD_rough</object-name>
+</effect>
+
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>505.513</x-m>
+    <y-m>473.313</y-m>
+    <z-m>76.049</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>529.434</x-m>
+    <y-m>475.705</y-m>
+    <z-m>76.049</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>527.689</x-m>
+    <y-m>491.712</y-m>
+    <z-m>76.049</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>503.846</x-m>
+    <y-m>489.074</y-m>
+    <z-m>76.049</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>529.434</x-m>
+    <y-m>475.705</y-m>
+    <z-m>78.6271</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>559.68</x-m>
+    <y-m>478.058</y-m>
+    <z-m>78.6271</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>557.801</x-m>
+    <y-m>495.894</y-m>
+    <z-m>78.6271</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+<model>
+  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
+  <offsets>
+    <x-m>527.689</x-m>
+    <y-m>491.712</y-m>
+    <z-m>78.6271</z-m>
+    <pitch-deg> 0.00</pitch-deg>
+    <heading-deg>0.0 </heading-deg>
+  </offsets>
+</model>
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/bare</max-property>
+
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/rough</max-property>
+  <object-name>LOD_rough</object-name>
+</animation>
+
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/detailed</max-property>
+  <object-name>LOD_detail</object-name>
+</animation>
+
+
+</PropertyList>

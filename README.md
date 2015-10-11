@@ -5,6 +5,10 @@ Flightgear Custom Scenery for Geneva Airport :: LSGG
 
 :copyright: 2015, Israel Hernandez IAHM-COL
 :copyright: 2015, Isaac Protiva Firefly
+:copyright: 2012-2015, Thomas Albrecht, fgradi (OSM2city textures and effects)
+
+OSM2City by Thomas Albrecht was used to construct city buildings, following data obtained and modified from the OSM database : https://www.openstreetmap.org
+Data of OSM used follows the Open Data Commons Open Dabase License (ODBL). See http://opendatacommons.org/licenses/odbl/ 
 
 License: GPL2+
 
