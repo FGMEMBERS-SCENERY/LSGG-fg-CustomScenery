@@ -17,10 +17,10 @@
      Boston, MA 02110-1301 USA. -->
 <groundnet>
  <parkingList>
-  <Parking airlineCodes="" heading="17.85" index="1" lat="N46 14.902" lon="E6 7.610" name="ILS hold at A" number="" radius="40" type="gate"/>
-  <Parking airlineCodes="" heading="303.07" index="2" lat="N46 14.601" lon="E6 7.163" name="ILS hold at B" number="" radius="40" type="gate"/>
-  <Parking airlineCodes="" heading="353.35" index="3" lat="N46 14.250" lon="E6 6.653" name="ILS hold at C" number="" radius="40" type="gate"/>
-  <Parking airlineCodes="" heading="253.81" index="4" lat="N46 13.534" lon="E6 5.615" name="ILS hold at F" number="" radius="40" type="gate"/>
+  <Parking airlineCodes="" heading="17.85" index="1" lat="N46 14.902" lon="E6 7.610" name="ILS_hold_at_A" number="" radius="40" type="gate"/>
+  <Parking airlineCodes="" heading="303.07" index="2" lat="N46 14.601" lon="E6 7.163" name="ILS_hold_at_B" number="" radius="40" type="gate"/>
+  <Parking airlineCodes="" heading="353.35" index="3" lat="N46 14.250" lon="E6 6.653" name="ILS_hold_at_C" number="" radius="40" type="gate"/>
+  <Parking airlineCodes="" heading="253.81" index="4" lat="N46 13.534" lon="E6 5.615" name="ILS_hold_at_F" number="" radius="40" type="gate"/>
   <Parking airlineCodes="" heading="149.04" index="5" lat="N46 13.746" lon="E6 6.242" name="A1" number="" radius="40" type="gate"/>
   <Parking airlineCodes="" heading="136.19" index="6" lat="N46 13.764" lon="E6 6.267" name="A2" number="" radius="40" type="gate"/>
   <Parking airlineCodes="" heading="135.55" index="7" lat="N46 13.783" lon="E6 6.294" name="A3" number="" radius="40" type="gate"/>
