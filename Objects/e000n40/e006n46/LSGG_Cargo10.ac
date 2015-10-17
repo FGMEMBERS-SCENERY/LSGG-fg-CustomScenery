@@ -10,7 +10,7 @@ kids 2
 OBJECT poly
 name "LSGG_Cargo"
 crease 35.0
-texture "LSGG_Cargo8.png"
+texture "LSGG_Cargo10.png"
 texrep 1 1
 kids 0
 OBJECT poly
