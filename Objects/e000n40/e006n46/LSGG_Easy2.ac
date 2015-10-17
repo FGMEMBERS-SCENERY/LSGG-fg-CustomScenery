@@ -8,7 +8,7 @@ kids 2
 OBJECT poly
 name "Cube.007"
 crease 35.0
-texture "LSGG_Satt10.png"
+texture "LSGG_Easy2.png"
 texrep 1 1
 numvert 205
 75.5055389 0.0000000 26.2827568
@@ -736,7 +736,7 @@ kids 0
 OBJECT poly
 name "Cube.009"
 crease 35.0
-texture "LSGG_Satt10.png"
+texture "LSGG_Easy2.png"
 texrep 1 1
 numvert 36
 48.2015724 16.5091972 18.3510876
