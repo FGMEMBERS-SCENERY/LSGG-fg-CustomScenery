@@ -32,7 +32,7 @@ To install, follow:
 
   To clone the GIT, change to such directory and inside execute the command
 
-  [/home/myname/FG_CustomScenery]$> git clone https://gitlab.com/iahmcol/LSGG-fg-CustomScenery.git
+  [/home/myname/FG_CustomScenery]$> git clone  git@github.com:FGMEMBERS-SCENERY/LSGG-fg-CustomScenery.git
 
   You shall see information about LSGG-fg-customScenery being cloned, and once
   finished you should have the respective directory. This directory should
